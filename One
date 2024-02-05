@@ -1,6 +1,6 @@
 const Fav = "Tiger"
 const Worst = "Ant"
-console.log("I love");
+console.log("I love ");
 console.log(Fav);
-console.log("I hate");
+console.log(" and I hate");
 console.log(Ant);
